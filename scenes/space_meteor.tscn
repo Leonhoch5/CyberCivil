@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bplv3wv7e1x6b"]
+
+[ext_resource type="Script" uid="uid://bexiu4vj23don" path="res://scripts/space_meteor.gd" id="1_26dad"]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_26dad")
